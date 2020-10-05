@@ -1,0 +1,8 @@
+ - [ ] Section 07: First Functional App From Scratch (Simple Counter) 0/7 | 42min
+	 - [ ] 28. Development Environment Setup | 7min
+	 - [ ] 29. Planning The App | 3min
+	 - [ ] 30. View Functions | 9min
+	 - [ ] 31. Update Functions | 4min
+	 - [ ] 32. App Function | 12min
+	 - [ ] 33. Counter Improvements | 4min
+	 - [ ] 34. Adding A Virtual Dom | 3min
